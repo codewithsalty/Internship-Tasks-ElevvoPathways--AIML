@@ -250,6 +250,30 @@ See `STREAMLIT_DEPLOYMENT.md` for step-by-step cloud deployment instructions.
 
 ---
 
+## 📸 Screenshots
+
+### Single Prediction
+Interactive sliders for real-time score prediction with performance level badges.
+
+![Single Prediction](screenshots/1%20(1).png)
+
+### Batch Prediction
+Upload CSV files for bulk predictions with downloadable results.
+
+![Batch Prediction](screenshots/1%20(2).png)
+
+### Model Insights
+Feature importance visualization and performance metrics dashboard.
+
+![Model Insights](screenshots/1%20(3).png)
+
+### Prediction Workflow
+End-to-end prediction pipeline overview.
+
+![Prediction Workflow](screenshots/1%20(4).png)
+
+---
+
 ## �📈 Expected Workflow
 
 ### Step 1: Data Exploration
