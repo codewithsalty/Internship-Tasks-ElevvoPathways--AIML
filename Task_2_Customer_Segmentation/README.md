@@ -109,6 +109,35 @@ Opens at: http://localhost:8501
 
 ---
 
+## Screenshots
+
+### Cluster Visualization
+2D scatter plot showing 5 distinct customer segments based on income and spending.
+
+![Cluster Visualization](screenshots/customer_segmentation%20(1).png)
+
+### Data Distributions
+Feature distributions and exploratory data analysis.
+
+![Data Distributions](screenshots/customer_segmentation%20(2).png)
+
+### Elbow Method
+Optimal cluster count determined using elbow curve analysis.
+
+![Elbow Method](screenshots/customer_segmentation%20(3).png)
+
+### Silhouette Analysis
+Cluster quality validation using silhouette scores.
+
+![Silhouette Analysis](screenshots/customer_segmentation%20(4).png)
+
+### Customer Profiles
+Cluster characteristics and business insights.
+
+![Customer Profiles](screenshots/customer_segmentation%20(5).png)
+
+---
+
 ## � Model Performance & Results
 
 ### Clustering Quality
